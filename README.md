@@ -4,10 +4,7 @@ Vlugbal 2002 - Pascal Volleyball game - School project matric (grade 12)
 Read more here: https://smit.co.za/vlugbal-2002/
 
 From the licence agreement file (2002 : )
-3/4appel sagteware                                           
-==================
-Vlugbal 2002
-============
+
 
 3/4appel sagteware sal nie die skuld aanvaar as jou rekenaar breek.
 
