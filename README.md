@@ -1,6 +1,11 @@
 # Vlugbal2002
 Vlugbal 2002 - Pascal Volleyball game - School project matric (grade 12)
 
+# Install
+Look at the Install folder
+
+# More
+
 Read more here: https://smit.co.za/vlugbal-2002/
 
 From the licence agreement file (2002 : )
